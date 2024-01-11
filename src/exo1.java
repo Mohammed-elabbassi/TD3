@@ -21,12 +21,12 @@ public class exo1 {
 }
 
 
- class Point {
-    public Point() {
+ class point {
+    public point() {
 
     }
 
-    public  Point(int x, int y) {
+    public  point(int x, int y) {
         this.x = x;
         this.y = y;
     }
@@ -50,7 +50,7 @@ public class exo1 {
     private int x, y;
 }
 
-class pointA extends Point{
+class pointA extends point{
     public pointA(){
 
     }
