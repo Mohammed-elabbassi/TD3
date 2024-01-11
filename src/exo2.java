@@ -18,8 +18,8 @@ public class exo2 {
         }
 
     }
-    class Point {
-        public  Point() {
+    class p {
+        public p() {
 
         }
         public void  Point(int x, int y) {
@@ -48,7 +48,7 @@ public class exo2 {
         }
 
     }
-    class PointNom extends Point {
+    class PointNom extends p {
 
         private char nom;
         public  PointNom() {
